@@ -70,7 +70,7 @@ ZSH_THEME="agnoster" # требуется установка шрифтов http
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git docker docker-compose golang)
+plugins=(git docker docker-compose golang npm)
 
 source $ZSH/oh-my-zsh.sh
 
